@@ -12,6 +12,7 @@ In particular, we ask you to apply the tools of machine learning to predict whic
 <li>Modeling</li>
 <li>Testing</li>
 <br>
+
 ![](Dataset.PNG)
 
 #### Data Dictionary
