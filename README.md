@@ -31,7 +31,7 @@ Feature vector is an n-dimensional vector of numerical features that represent s
 Many algorithms in machine learning require a numerical representation of object
 
 ### Modelling Clustering KNN
-![](Clustering KNN.PNG)
+![](Clustering_KNN.PNG)
 
 ### Result
 ![](Result.PNG)
