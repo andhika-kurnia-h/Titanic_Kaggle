@@ -11,7 +11,7 @@ In particular, we ask you to apply the tools of machine learning to predict whic
 <li>Feature selection</li>
 <li>Modeling</li>
 <li>Testing</li>
-
+<br>
 ![](Dataset.PNG)
 
 #### Data Dictionary
