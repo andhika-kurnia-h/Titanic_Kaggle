@@ -1,8 +1,10 @@
 # Titanic_Kaggle
 
+### Abstract
+The Titanic was a British ferry that sank in the North Atlantic Ocean on 15 April 1912 after hitting an iceberg on its maiden voyage from Southampton, England to New York City. Titanic has complete facilities but didn't have enough lifeboats to accommodate all the passengers on board. Titanic only carried lifeboats that could accommodate 1.178 passengers, which is 30% of the total passengers and crew. Analyze this incident to understand what factors could have contribute to the survival of some passengers and the death of others. The data consist of 891 train data and 418 test data. The purpose of this project is to determine relationship between factors such as age, gender, passengers class, ticket fare, etc. KNN algorithms will be implemented to predict passengers survival and the percentage of accuracy in the test data set. 
+
 ### Predict survival on the Titanic
-Complete the analysis of what sorts of people were likely to survive.<br>
-In particular, we ask you to apply the tools of machine learning to predict which passengers survived the Titanic tragedy.
+Complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the Titanic tragedy.
 
 <li>Defining the problem statement</li>
 <li>Collecting the data</li>
